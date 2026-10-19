@@ -1,0 +1,18 @@
+# secrets -- never commit
+.env
+*.pem
+*.key
+bf.txt
+kalshi_private_key*
+
+# python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/

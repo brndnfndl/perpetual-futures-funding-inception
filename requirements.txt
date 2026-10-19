@@ -1,0 +1,9 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.7
+statsmodels>=0.14
+scipy>=1.11
+requests>=2.31
+cryptography>=42.0
+python-dotenv>=1.0
+jupyter>=1.0
